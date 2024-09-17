@@ -1,0 +1,2 @@
+# project-base-monorepo
+base
